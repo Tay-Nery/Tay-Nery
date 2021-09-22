@@ -1,5 +1,5 @@
 ##### Hey world, I'm Tay! I'm a Computer Information Systems student. I recently (August 2021) entered the IT field and so far I'm loving it. 
-##### I hope being able soon to use my personal skills in this new journey and to learn as much as I can.
+##### I hope being able soon to use my personal skills in this new journey and learn as much as I can.
 
 
 - :small_blue_diamond: Currently working as a Translator
