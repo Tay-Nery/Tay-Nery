@@ -2,7 +2,7 @@
 ##### I hope being able soon to use my personal skills in this new journey and learn as much as I can.
 
 
-- :small_blue_diamond: Currently working as a Translator
+- :small_blue_diamond: Currently working as a Translator and Enlish teacher
 - :small_blue_diamond: Learning C# and Java
 - :small_blue_diamond: Looking for help with any beginner tips in IT field
 - :small_blue_diamond: Fun facts: I love MMORPG, good music and beer tasting 
