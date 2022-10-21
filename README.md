@@ -1,4 +1,4 @@
-##### Hey world, I'm Tay! I'm a Computer Information Systems student. I recently (August 2021) entered the IT field and so far I'm loving it. 
+##### Hey world, I'm Tay! I'm an Information System student. I entered the IT field in August 2021 and so far I'm loving it. 
 ##### I hope being able soon to use my personal skills in this new journey and learn as much as I can.
 
 
