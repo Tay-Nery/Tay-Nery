@@ -5,7 +5,7 @@
 - :small_blue_diamond: Currently working as an IT Intern at Grupo URCA (in Brazil)
 - :small_blue_diamond: Learning Java
 - :small_blue_diamond: Looking for help with any beginner tips in IT field
-- :small_blue_diamond: Fun facts: I love MMORPG, good music and beer tasting 
+- :small_blue_diamond: Fun facts: I love MMORPG, to watch TV shows, and beer tasting 
 - :outbox_tray: 2022 Goals: create a new project and start on a new job/Intership.
 
 
