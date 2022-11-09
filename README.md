@@ -1,7 +1,7 @@
 <h1 align="center"> Hey world, I'm Taynara (aka Tay)!  </h1>
 
 #### I'm an Information System student. I entered the IT field in August 2021 and so far I'm loving it.
-#### I hope being able soon to use my personal skills in this new journey and learn as much as I can.
+#### I also hope being able soon to use my personal skills in this new journey and learn as much as I can.
 
 #
 - :small_blue_diamond: Currently working as an IT Intern at Grupo URCA (in Brazil)
@@ -16,10 +16,6 @@
 
 - 📫 How to reach me:
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=LINK_INSTAGRAM)](https://www.instagram.com/tay.nery/)
-
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-0072b1?style=for-the-badge&logo=linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/taynara-nery-silva-84884a110/)
-
-<a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=LINK_INSTAGRAM)](https://www.instagram.com/tay.nery/) [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0072b1?style=for-the-badge&logo=linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/taynara-nery-silva-84884a110/) <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
 [Still in progress...]
