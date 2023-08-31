@@ -7,7 +7,7 @@
 - :small_blue_diamond: Currently working as an IT Intern (Junior data analyst) at Grupo URCA (in Brazil)
 - :small_blue_diamond: Learning HTML & CSS (Javascript too soon)
 - :small_blue_diamond: Looking for help with any beginner tips in IT field
-- :small_blue_diamond: Fun facts: I love MMORPG, to watch TV shows, and beer tasting 
+- :small_blue_diamond: Fun facts: I love MMORPG, to watch TV shows, and craftbeer tasting 
 - :outbox_tray: 2023 Goals: create a new project and start on a new job/Intership.
 
 
