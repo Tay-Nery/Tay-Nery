@@ -8,7 +8,7 @@
 - :small_blue_diamond: Learning HTML, CSS & Javascript too
 - :small_blue_diamond: Looking for help with any beginner tips in IT field
 - :small_blue_diamond: Fun facts: I love MMORPG, to watch TV shows, and craftbeer tasting 
-- :outbox_tray: 2023 Goals: create a new project and start on a new job/Intership
+- :outbox_tray: 2024 Goals: create a new project and start on a new job/Intership
 
 
 [![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=Tay-Nery)](https://github.com/Tay-Nery/github-readme-stats)
