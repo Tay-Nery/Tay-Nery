@@ -4,11 +4,11 @@
 #### I also hope being able soon to use my personal skills in this new journey and learn as much as I can.
 
 #
-- :small_blue_diamond: Currently working as an IT Intern (Junior data analyst) at Grupo URCA (in Brazil)
-- :small_blue_diamond: Learning HTML & CSS (Javascript too soon)
+- :small_blue_diamond: Currently working as an IT Assistant Analyst (previously IT Intern) at Grupo URCA (in Brazil)
+- :small_blue_diamond: Learning HTML, CSS & Javascript too
 - :small_blue_diamond: Looking for help with any beginner tips in IT field
 - :small_blue_diamond: Fun facts: I love MMORPG, to watch TV shows, and craftbeer tasting 
-- :outbox_tray: 2023 Goals: create a new project and start on a new job/Intership.
+- :outbox_tray: 2023 Goals: create a new project and start on a new job/Intership
 
 
 [![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=Tay-Nery)](https://github.com/Tay-Nery/github-readme-stats)
